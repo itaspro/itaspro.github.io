@@ -11,13 +11,13 @@ title: WHO WE ARE
 
 ## Vision
 
-The Chinese IT Association of Canada (ITAs) is going to be a registered non-profitable organization with a primary purpose of connecting Chinese IT professionals throughout Canada.
+The IT Association of Canada (ITAs) is going to be a registered non-profitable organization with a primary purpose of connecting IT professionals throughout Canada.
 
 We believe together we can achieve more.
 
-Our mission is to foster the professional development of Chinese IT professionals across Canada. We aim to prepare them with the skills, knowledge, and professional and social connections they need to achieve their own aspirations.
+Our mission is to foster the professional development of IT professionals across Canada. We aim to prepare them with the skills, knowledge, and professional and social connections they need to achieve their own aspirations.
  
-Our long-term vision is to build a reciprocal community for Chinese IT professionals across Canada.
+Our long-term vision is to build a reciprocal community for IT professionals across Canada.
 
 ## Monthly Technical Events
 
