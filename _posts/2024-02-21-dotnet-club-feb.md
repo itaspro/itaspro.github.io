@@ -15,3 +15,5 @@ Compared to our previous class in November, this time we upgrade the course with
 For details on the February 27th event, please refer to the poster in this post.
 
 ![Poster](/assets/img/itas/poster.2.27.jpeg)
+
+BTW, we continue to run our Coffee Chat series, and you are welcome to join us. Please refer to {% post_url 2023-11-23-coffee-chat %} for more details.
